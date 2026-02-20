@@ -1,4 +1,4 @@
-# 🕵️ OverTheWire Bandit Writeup (Level 0–20)
+# OverTheWire Bandit Writeup (Level 0–20)
 
 > Wargame: https://overthewire.org/wargames/bandit/   
 
